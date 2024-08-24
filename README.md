@@ -28,6 +28,14 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniAnilPatil&layout=compact&theme=radical)
 
+### 🏆 GitHub Contributions:
+
+![GitHub Contributions](https://github.com/ShravaniAnilPatil/ShravaniAnilPatil/blob/output/github-contribution-grid-snake.svg)
+
+### 🏆 GitHub Trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShravaniAnilPatil&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 🌱 Currently working on:
 - [E-yojana]
 - [Edurise]
