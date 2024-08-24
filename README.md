@@ -3,7 +3,10 @@
 <!--
 **ShravaniAnilPatil/ShravaniAnilPatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
 ## Passionate Full Stack Developer
+I'm a 3rd-year engineering student with a passion for Java programming and solving real-world problems. I love creating innovative solutions and exploring new technologies.
+
 ### 🚀 Tech Stack:
 
 <p align="left">
@@ -27,10 +30,6 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShravaniAnilPatil&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniAnilPatil&layout=compact&theme=radical)
-
-### 🏆 GitHub Contributions:
-
-![GitHub Contributions](https://raw.githubusercontent.com/ShravaniAnilPatil/ShravaniAnilPatil/output/github-contribution-grid-snake.svg)
 
 ### 🏆 GitHub Trophies:
 
