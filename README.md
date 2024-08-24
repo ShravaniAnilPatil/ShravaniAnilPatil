@@ -30,7 +30,7 @@
 
 ### 🏆 GitHub Contributions:
 
-![GitHub Contributions](https://github.com/ShravaniAnilPatil/ShravaniAnilPatil/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contributions](https://raw.githubusercontent.com/ShravaniAnilPatil/ShravaniAnilPatil/output/github-contribution-grid-snake.svg)
 
 ### 🏆 GitHub Trophies:
 
