@@ -4,8 +4,6 @@
 **ShravaniAnilPatil/ShravaniAnilPatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## Passionate Full Stack Developer
- ### 🚀 Tech Stack:
-
 ### 🚀 Tech Stack:
 
 <p align="left">
