@@ -1,0 +1,30 @@
+name: Generate Snake
+
+# This action runs every day at midnight or can be manually triggered
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Check out the repository
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      # Generate the Snake
+      - name: Generate Snake
+        uses: Platane/snk@v2
+        with:
+          github_user_name: ShravaniAnilPatil
+          outputs: dist/snake.svg
+
+      # Upload the generated snake.svg
+      - name: Upload the Snake
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake
+          path: dist/snake.svg
