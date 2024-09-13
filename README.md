@@ -23,7 +23,7 @@
 <a href="https://www.docker.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40" title="docker"/></a>
 </p>
   <a href="https://www.python.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" title="python"/></a>
-<a href="https://www.jwt.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" alt="jwt" width="40" height="40" title="jwt"/></a>
+
 
 ### 📊 GitHub Stats:
 
