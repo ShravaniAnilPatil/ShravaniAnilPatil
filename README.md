@@ -48,9 +48,6 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=ShravaniAnilPatil" alt="GitHub Trophies" />
 </p>
-
-### 🌱 Currently Working On:
-- [E-Yojana]
   
 ### 📫 Contact Me:
 - [LinkedIn](https://www.linkedin.com/in/shravani-patil-163828293/)
