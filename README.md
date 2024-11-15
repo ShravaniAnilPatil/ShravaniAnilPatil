@@ -2,7 +2,7 @@
 
 <h2 align="left">A Passionate Developer </h2>
 
-<h4 align="left">Welcome to my GitHub profile! I'm a 3rd-year engineering student with a deep passion for Java programming and creating solutions that address real-world problems. I enjoy exploring new technologies and building innovative projects.</h4>
+<h4 align="left">Welcome to my GitHub profile! I'm a 3rd-year engineering student at VESIT </h4>
 
 ### 🚀 Tech Stack:
 
