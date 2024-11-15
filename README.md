@@ -74,14 +74,6 @@
 
 ---
 
-### 🏆 GitHub Contributions:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShravaniAnilPatil&theme=radical" alt="GitHub Streak" width="70%" />
-</p>
-
----
-
 ### 🏆 GitHub Trophies:
 
 <p align="center">
