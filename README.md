@@ -2,10 +2,7 @@
 <h2 align="left">A Passionate Developer</h2>
 <h4 align="left">Welcome to my GitHub profile! I'm a 3rd-year engineering student at VESIT.</h4>
 
----
-
-### 🚀 Tech Stack:
-
+### 🚀 Tech Stack
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
@@ -63,26 +60,23 @@
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats:
-
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShravaniAnilPatil&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniAnilPatil&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
----
-
-### 🏆 GitHub Trophies:
-
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShravaniAnilPatil&theme=radical" alt="GitHub Trophies" width="70%" />
 </p>
 
----
-
-### 📫 Contact Me:
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shravani-patil-163828293/)
-- [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:shravanipatil1427@gmail.com)
+### 📫 Contact Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/shravani-patil-163828293/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shravanipatil1427@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
