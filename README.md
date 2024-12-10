@@ -1,6 +1,9 @@
 <h1 align="left">Hi there! 👋🏻 I'm Shravani Patil</h1>
-<h2 align="left">A Passionate Developer</h2>
+<h2 align="left">A Full Stack Developer</h2>
 <h4 align="left">Welcome to my GitHub profile! I'm a 3rd-year engineering student at VESIT.</h4>
+
+### 🌟 About Me
+I enjoy working on projects that challenge my abilities and help me grow. Let’s connect and collaborate!
 
 ### 🚀 Tech Stack
 <p align="left">
@@ -43,6 +46,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" title="MySQL"/>
   </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" title="Firebase"/>
+  </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" title="Jenkins"/>
   </a>
@@ -58,20 +64,7 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" title="Firebase"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="40" height="40" title="MSSQL"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" title="Flask"/>
-  </a>
 </p>
-
-
-
-  
 
 ### 📊 GitHub Stats
 <p align="center">
