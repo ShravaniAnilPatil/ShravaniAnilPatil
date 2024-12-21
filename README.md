@@ -2,20 +2,14 @@
 <h2 align="center">Full Stack Developer | Student | Learner</h2>
 <p align="center">🌟 3rd-year engineering student at VESIT, passionate about coding, collaboration, and growth! 🌟</p>
 
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer Animation" width="70%" />
 </div>
-
----
 
 ## 🌸 About Me
 - 💡 I love crafting solutions that challenge my skills and help me grow.
 - 🛠️ Currently exploring cutting-edge web development techniques.
 - 🤝 Open to collaborations on innovative projects.
-
----
 
 ## 🚀 Tech Stack
 <div align="center">
@@ -38,22 +32,16 @@
   <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" title="Jenkins" width="40" height="40" />
 </div>
 
----
-
 ## 📊 My GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShravaniAnilPatil&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniAnilPatil&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </div>
 
----
-
 ## 🏆 Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShravaniAnilPatil&theme=radical" alt="GitHub Trophies" width="80%" />
 </div>
-
----
 
 ## 📫 Connect With Me
 <div align="center">
