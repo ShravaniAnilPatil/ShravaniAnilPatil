@@ -29,6 +29,9 @@ I enjoy working on projects that challenge my abilities and help me grow. Let’
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" title="React"/>
   </a>
+   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="Django" width="40" height="40" title="Django"/>
+  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js"/>
   </a>
@@ -64,6 +67,12 @@ I enjoy working on projects that challenge my abilities and help me grow. Let’
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" title="Jenkins"/>
+  </a>
+  <a href="https://www.thunderclient.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rangav/thunder-client-support/main/images/tc-icon.svg" alt="Thunder Client" width="40" height="40" title="Thunder Client"/>
   </a>
 </p>
 
