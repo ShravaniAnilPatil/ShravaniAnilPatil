@@ -71,9 +71,6 @@ I enjoy working on projects that challenge my abilities and help me grow. Let’
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" title="Jenkins"/>
   </a>
-  <a href="https://www.thunderclient.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rangav/thunder-client-support/main/images/tc-icon.svg" alt="Thunder Client" width="40" height="40" title="Thunder Client"/>
-  </a>
 </p>
 
 ---
