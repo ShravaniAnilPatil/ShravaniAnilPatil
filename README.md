@@ -2,8 +2,12 @@
 <h2 align="left">A Full Stack Developer</h2>
 <h4 align="left">Welcome to my GitHub profile! I'm a 3rd-year engineering student at VESIT.</h4>
 
+---
+
 ### 🌟 About Me
 I enjoy working on projects that challenge my abilities and help me grow. Let’s connect and collaborate!
+
+---
 
 ### 🚀 Tech Stack
 <p align="left">
@@ -12,6 +16,9 @@ I enjoy working on projects that challenge my abilities and help me grow. Let’
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap"/>
@@ -27,6 +34,9 @@ I enjoy working on projects that challenge my abilities and help me grow. Let’
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40" title="Express.js"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="40" height="40" title="Django"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
@@ -49,22 +59,18 @@ I enjoy working on projects that challenge my abilities and help me grow. Let’
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" title="Firebase"/>
   </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" title="Jenkins"/>
-  </a>
   <a href="https://www.docker.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
   </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" title="Postman"/>
-  </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
   </a>
 </p>
+
+---
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -72,10 +78,14 @@ I enjoy working on projects that challenge my abilities and help me grow. Let’
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniAnilPatil&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
+---
+
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShravaniAnilPatil&theme=radical" alt="GitHub Trophies" width="70%" />
 </p>
+
+---
 
 ### 📫 Contact Me
 <p align="left">
