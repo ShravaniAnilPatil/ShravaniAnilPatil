@@ -1,15 +1,23 @@
 <h1 align="center">✨ Shravani Patil ✨</h1>
 <h2 align="center">Full Stack Developer | Student | Learner</h2>
-<p align="center">🌟 3rd-year engineering student at VESIT, passionate about coding, collaboration, and growth! 🌟</p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer Animation" width="70%" />
-</div>
-
-## 🌸 About Me
-- 💡 I love crafting solutions that challenge my skills and help me grow.
-- 🛠️ Currently exploring cutting-edge web development techniques.
-- 🤝 Open to collaborations on innovative projects.
+<table align="center">
+  <tr>
+    <td width="60%">
+      <p align="left">3rd-year engineering student at VESIT, passionate about coding, collaboration, and growth! </p>
+      <h3> About Me</h3>
+      <ul>
+        <li>I love crafting solutions that challenge my skills and help me grow.</li>
+        <li>Currently exploring AI/ML, Flutter Development</li>
+        <li>Ask Me about Django , MERN stack.</li>
+        <li>🤝 Open to collaborations.</li>
+      </ul>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer Animation" width="90%" />
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Tech Stack
 <div align="center">
@@ -30,6 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40" />
   <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" title="Jenkins" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" width="40" height="40" />
 </div>
 
 ## 📊 My GitHub Stats
