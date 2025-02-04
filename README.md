@@ -1,20 +1,22 @@
 <h1 align="center">✨ Shravani Patil ✨</h1>
 <h2 align="center">Full Stack Developer | Student | Learner</h2>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
-    <h2>About Me</h2>
-    <ul>
-      <li>I love crafting solutions that challenge my skills and help me grow.</li>
-      <li>Currently exploring AI/ML, Flutter Development.</li>
-      <li>Ask Me about Django, MERN stack.</li>
-      <li>🤝 Open to collaborations.</li>
-    </ul>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer Animation" width="300px" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="60%">
+      <h2>About Me</h2>
+      <ul>
+        <li>I love crafting solutions that challenge my skills and help me grow.</li>
+        <li>Currently exploring AI/ML, Flutter Development.</li>
+        <li>Ask Me about Django, MERN stack.</li>
+        <li>🤝 Open to collaborations.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer Animation" width="300px" />
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Tech Stack
 
@@ -67,4 +69,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
