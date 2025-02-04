@@ -1,20 +1,20 @@
 <h1 align="center">✨ Shravani Patil ✨</h1>
 <h2 align="center">Full Stack Developer | Student | Learner</h2>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer Animation" width="300px" />
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <h2>About Me</h2>
+    <ul>
+      <li>I love crafting solutions that challenge my skills and help me grow.</li>
+      <li>Currently exploring AI/ML, Flutter Development.</li>
+      <li>Ask Me about Django, MERN stack.</li>
+      <li>🤝 Open to collaborations.</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer Animation" width="300px" />
+  </div>
 </div>
-
-<div align="center">
-  <p>3rd-year engineering student at VESIT, passionate about coding, collaboration, and growth!</p>
-</div>
-
-## About Me
-
-- I love crafting solutions that challenge my skills and help me grow.
-- Currently exploring AI/ML, Flutter Development
-- Ask Me about Django, MERN stack.
-- 🤝 Open to collaborations.
 
 ## 🚀 Tech Stack
 
