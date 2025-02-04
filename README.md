@@ -4,8 +4,8 @@
 <table align="center">
   <tr>
     <td width="60%">
-      <p align="left">3rd-year engineering student at VESIT, passionate about coding, collaboration, and growth! </p>
-      <h3> About Me</h3>
+      <p align="left">3rd-year engineering student at VESIT, passionate about coding, collaboration, and growth!</p>
+      <h3>About Me</h3>
       <ul>
         <li>I love crafting solutions that challenge my skills and help me grow.</li>
         <li>Currently exploring AI/ML, Flutter Development</li>
@@ -39,6 +39,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40" />
   <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" title="Jenkins" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="40" height="40" />
 </div>
 
 ## 📊 My GitHub Stats
@@ -61,3 +66,4 @@
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
