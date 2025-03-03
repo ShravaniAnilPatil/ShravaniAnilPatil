@@ -9,7 +9,7 @@
         <li>I love crafting solutions that challenge my skills and help me grow.</li>
         <li>Currently exploring AI/ML, Flutter Development.</li>
         <li>Ask Me about Django, MERN stack.</li>
-        <li>🤝 Open to collaborations.</li>
+        <li>🤝 Open to collaborations for projects in various domains.</li>
       </ul>
     </td>
     <td width="40%" align="center">
