@@ -7,7 +7,7 @@
       <h2>About Me</h2>
       <ul>
         <li>I love crafting solutions that challenge my skills and help me grow.</li>
-        <li>Currently exploring AI/ML, Flutter Development.</li>
+        <li>Currently exploring AI/ML </li>
         <li>Ask Me about Django, MERN stack.</li>
         <li>🤝 Open to collaborations for projects in various domains.</li>
       </ul>
