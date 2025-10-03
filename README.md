@@ -1,4 +1,4 @@
-<h1 align="center">✨ Shravani Patil ✨</h1>
+<h1 align="center">✨ Shravani Anil Patil ✨</h1>
 <h2 align="center">Full Stack Developer | Student | Learner</h2>
 
 <table>
