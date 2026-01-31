@@ -67,10 +67,10 @@
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShravaniAnilPatil&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShravaniAnilPatil&theme=radical&no-frame=true&column=4" />
 </div>
+
 
 ---
 
