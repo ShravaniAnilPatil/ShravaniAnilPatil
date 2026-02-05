@@ -19,6 +19,15 @@
 </table>
 
 ---
+## 🎓 Academic Excellence
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CGPA%20(Till%20Sem%207)-9.55-0fa4af?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</p>
+
+<p align="center">
+  Consistent academic performer with strong fundamentals in engineering and software development.
+</p>
 
 ## 🚀 Tech Stack
 
