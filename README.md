@@ -1,4 +1,6 @@
-<h1 align="center">✨ Shravani Anil Patil ✨</h1> <h2 align="center">Full Stack Developer | Student | Learner</h2><table> <tr> <td width="60%"> <h2>About Me</h2> <ul> <li>I love crafting solutions that challenge my skills and help me grow.</li> <li>Currently exploring AI/ML.</li> <li>Ask me about Web Development.</li> <li>🤝 Open to collaborations for projects in various domains.</li> </ul> </td> <td width="40%" align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer Animation" width="300px" /> </td> </tr> </table>
+<h1 align="center">✨ Shravani Anil Patil ✨</h1>
+<h2 align="center">Full Stack Developer | Student | Learner</h2><table> <tr> <td width="60%"> 
+  <h2> About Me</h2> <ul> <li>I love crafting solutions that challenge my skills and help me grow.</li> <li>Currently exploring Web3 and Blockchain Technolgy.</li> <li>Ask me about Web Development and AI ML .</li> <li>🤝 Open to collaborations for projects in various domains.</li> </ul> </td> <td width="40%" align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer Animation" width="300px" /> </td> </tr> </table>
 🎓 Academic Excellence
 <p align="center"> <img src="https://img.shields.io/badge/CGPA%20(Till%20Sem%207)-9.52-0fa4af?style=for-the-badge&logo=google-scholar&logoColor=white" /> </p><p align="center"> Consistent academic performer with strong fundamentals in engineering and software development. </p>
 🚀 Tech Stack
